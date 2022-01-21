@@ -1,9 +1,8 @@
 ![Header](https://i.imgur.com/hI27Sam.png)
 
-## Social Media
-![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?link=https://www.facebook.com/afcyyy)
-![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?link=https://www.instagram.com/afcyy/)
-![LinkedIn](https://img.shields.io/badge/Linkedin-Profile-blue?link=https://www.linkedin.com/in/vazha-aptsiauri-76b995192)
+## Hi There👋
+
+I'm a Back-end Developer at Lavapi working in Tbilisi, Georgia.
 
 ## Currently working with:
 ![PHP](https://github.com/hussainweb/hussainweb/raw/main/icons/php.png)
