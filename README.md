@@ -2,13 +2,9 @@
 
 ## Hi There👋
 
-I'm a Back-end Developer at Lavapi working in Tbilisi, Georgia.
+I'm a Back-end Developer currently looking for a job.
 
-## Currently working with:
-![PHP](https://github.com/hussainweb/hussainweb/raw/main/icons/php.png)
-![Composer](https://github.com/hussainweb/hussainweb/raw/main/icons/composer.png)
-![GitHub](https://github.com/hussainweb/hussainweb/raw/main/icons/github.png)
-![PHPStorm](https://user-images.githubusercontent.com/37383700/150593849-310f5c67-46e8-475f-8502-94b3b7f5e223.png)
+I have experience in 2 different companies, working with Laravel and NestJS.
 
 <!--
 **Afcyy/afcyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
