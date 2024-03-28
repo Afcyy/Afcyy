@@ -1,10 +1,39 @@
 ![Header](https://i.imgur.com/hI27Sam.png)
 
-## Hi There👋
+# Hey there! 👋
 
-I'm a Back-end Developer currently looking for a job.
+I'm a Back-end Developer, and I thought I'd share a bit about what I do.
 
-I have experience in 2 different companies, working with Laravel and NestJS.
+## About Me
+
+I love building strong back-end systems and tackling tricky problems. I've got experience working with Laravel and NestJS, and I'm always up for a challenge!
+
+## My Work
+
+### Current role
+
+#### TNET
+- Role: Back-end Developer
+- Duration: Apr 2024 - Present
+
+### Past Experience
+
+#### MyDataNinja
+- Role: Back-end Developer
+- Duration: Dec 2023 - Mar 2024
+
+#### LavaPi
+- Role: Back-end Developer
+- Duration: Oct 2021 - Jan 2023
+  
+#### JSC m2
+- Role: Back-end Developer
+- Duration: Jul 2019 - Mar 2020
+
+## Get in Touch
+
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/afcyy)!
+
 
 <!--
 **Afcyy/afcyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
