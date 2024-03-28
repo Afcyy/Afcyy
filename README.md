@@ -12,23 +12,32 @@ I love building strong back-end systems and tackling tricky problems. I've got e
 
 ### Current role
 
-#### TNET
-- Role: Back-end Developer
-- Duration: Apr 2024 - Present
+### [TNET](https://tnet.ge/)
+- #### Role: Back-end Developer
+- #### Duration: Apr 2024 - Present
 
 ### Past Experience
 
-#### MyDataNinja
+#### [MyDataNinja](https://mydataninja.com/)
 - Role: Back-end Developer
 - Duration: Dec 2023 - Mar 2024
 
-#### LavaPi
+#### [LavaPi](https://lavapi.com/)
 - Role: Back-end Developer
 - Duration: Oct 2021 - Jan 2023
   
-#### JSC m2
+#### [JSC m2](https://m2.ge/)
 - Role: Back-end Developer
 - Duration: Jul 2019 - Mar 2020
+
+## Education
+
+### [Business and Technology University, Tbilisi, Georgia](https://btu.edu.ge/)
+- 8th Semester student, studying Informational Technologies
+
+### [University of Applied Sciences Wurzburg-Schweinfurt, Germany](https://www.thws.de/)
+- Participated in a 1-year exchange program
+- Studied Intercultural Management and Computer Science, simultaneously
 
 ## Get in Touch
 
